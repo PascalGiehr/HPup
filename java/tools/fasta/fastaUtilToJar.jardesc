@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/karln/jars/fastaUtils.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tools/src/tools/fasta/fastaUtilToJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tools/src&lt;tools.fasta{fastaUtils.java[fastaUtils" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq_seqComp.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqParser_nio.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.phylip{Phylipparser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual{RocheQualParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.hmmer{hmmerAlignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual{RocheQualSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine_startComparator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine_endComparator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{LongBlastHit2blastM8alignmentGenerator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastM8Alignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.qual{QualSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.pfam{pfamUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.pfam{pfamAlignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqCorrection.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq_headerComp.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.phylip{PhylipSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.sequences"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.hmmer{hmmerUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.phylip{PhylipSet.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastAnalyzer.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.utils{general.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{fastqUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.hmmer{hmmerMultipleModelAlignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual{qualParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.phylip{PhylipUtils.java"/>
+        <file path="/tools/.project"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{FastaSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.vcf.bisSNP"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastM8Parser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.utils.multiPatternMatcher{multipatternTree.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.nexus"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{fastqParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gff3Utils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{GFF3node.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.hmmer{hmmerModelAlignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual{QualSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual{RocheQualUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{split_multifasta.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.qual{qualParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{RandomAccessFastaParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.pfam{pfamParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.hmmer{hmmerParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaKmerParser.java"/>
+        <file path="/tools/.classpath"/>
+    </selectedElements>
+</jardesc>

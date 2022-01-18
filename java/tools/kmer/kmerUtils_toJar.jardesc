@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/karln/jars/kmerUtils.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tools/src/tools/kmer/kmerUtils_toJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tools/src&lt;tools.kmer{kmerUtils.java[kmerUtils" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq_seqComp.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerTable_utils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqParser_nio.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastM8Parser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{fastqParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerMap_binary_general.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine_startComparator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine_endComparator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gff3Utils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{LongBlastHit2blastM8alignmentGenerator.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastM8Alignment.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerSet_binary.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{kmerUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{GFF3node.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{kmerFunctions.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer.bisulfite"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerSet_binary_utils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqCorrection.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerSet.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq_headerComp.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{Entropy.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{split_multifasta.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerTable_hash.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerTable.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.sequences"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastM8ScoreRevComp.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.blast{blastAnalyzer.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{Kmer_large.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;utils.perfectHash"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{KmerMap_binary.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.gff{gffLine.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{fastqUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaKmerParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer{Kmer_count_tuple.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{FastaSeq.java"/>
+    </selectedElements>
+</jardesc>

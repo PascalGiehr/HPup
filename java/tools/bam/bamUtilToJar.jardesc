@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/karln/jars/bamUtils.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tools/src/tools/bam/bamUtilToJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tools/src&lt;tools.bam{bamUtils.java[bamUtils" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{FastqSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.utils{general.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.bam"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq{fastqParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.sequences"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{FastaSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaParser.java"/>
+    </selectedElements>
+</jardesc>

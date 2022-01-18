@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/karln/jars/fastqUtils.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tools/src/tools/fastq/fastqUtils_toJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tools/src&lt;tools.fastq{fastqUtils.java[fastqUtils" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=tools/src&lt;tools.fastq"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.utils{general.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.utils.multiPatternMatcher{multipatternTree.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.rocheQual"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.reptile"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaUtils.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;information"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaKmerParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.sequences"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{FastaSeq.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.fasta{fastaParser.java"/>
+        <javaElement handleIdentifier="=tools/src&lt;tools.kmer"/>
+    </selectedElements>
+</jardesc>
